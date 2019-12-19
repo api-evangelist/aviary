@@ -1,0 +1,75 @@
+{
+    "name": "Aviary",
+    "description": "The world's best photo editor. Get the app now for iOS and Android - it's free! http:\/\/www.aviary.com",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/696-aviary.jpg",
+    "tags": [
+        "api provider",
+        "editing",
+        "have api",
+        "iphone",
+        "photos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aviary\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Aviary",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/696-aviary.jpg",
+            "humanURL": "https:\/\/aviary.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aviary-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aviary-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/feather.aviary.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/aviary.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/Aviary"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/aviary"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/aviary"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.aviary.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/AviaryInc"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/aviary"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/aviary.com\/"
+        }
+    ]
+}
